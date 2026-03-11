@@ -172,6 +172,6 @@ By combining **fun gameplay with meaningful learning**, this project aims to hel
 # 👨‍💻 Author
 
 **Thanniru Dharma Nithin**
-Data Analytics Student – Coding Ninjas
+
 
 Passionate about building **data-driven and socially impactful technology solutions.**
